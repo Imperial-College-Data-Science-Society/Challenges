@@ -26,7 +26,7 @@ This is not an exhaustive list of tasks, the points are provided in order to gui
 
 ### Decide on Model Nature (Generative or Discriminative)
 
-
+Due to the sequential nature of the data, both generative and discriminative models can fit the problem.
 
 ### Model
 
