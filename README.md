@@ -78,7 +78,7 @@ where:
 * `imperial_login`: your Imperial College username (i.e. `abc12`)
 
 Note that you should be a member of [ICDSS society](https://www.imperialcollegeunion.org/activities/a-to-z/data-science)
-in order to accept your submission. The membership is free for Imeprial College students!
+in order to accept your submission. The membership is free for Imperial College students!
 
 ### Environment
 
@@ -92,6 +92,8 @@ setup is required.
 
 ### Deriverables
 
+#### Challenge
+
 You can choose to submit:
 
 * a [Jupyter Notebook](http://jupyter.org/), which is supported in [cocalc](https://cocalc.com/) platform.
@@ -100,6 +102,10 @@ You can choose to submit:
 
 **Note**: Quality matters **only**. The challenge can be successfully addressed and
 reported with just a handful of jupyter-cells/slides/report-pages.
+
+#### Resumé
+
+Submit also a recent version of your **resumé**, highligting your Data Science experience (projects, courses).
 
 ## Logistics
 
