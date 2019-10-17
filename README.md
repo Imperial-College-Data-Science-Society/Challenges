@@ -10,7 +10,7 @@ Detailed descriptions are provided in the `READEME.md` files of each challenge.
 1. [Bike Deployment](bike-deployment)
 2. [Fashion MNIST Classification](computer-vision)
 3. [Cryptocurrency Trading](cryptocurrency-trading)
-4. [Volatility Pairs Trading](pairs-trading)
+4. [Volatility Pairs Trading](pair-trading)
 5. [Real Estate Housing](real-estate)
 
 ## Assessment
@@ -31,9 +31,11 @@ Long texts are, in general, **not** preferred.
 
 Descriptions of the datasets are intentionally not provided to enable you to
 research for them and gain insight into the raw data.
+
 Any type of meaningful visualization and basic statistical analysis of the data
 is highly encouraged. Do not spend too much time on that,
 you should be able to get this with just a few lines of code.
+
 Please avoid spending lots of time trying to produce the perfect looking graph. Simple ones will suffice.
 
 ### **Assumptions**
