@@ -1,5 +1,4 @@
-# Challenges
-ICDSS Advanced Data Science Team Challenges 2020-2021
+# ICDSS Advanced Data Science Team Challenges 2020-2021
 
 ## Datasets
 
