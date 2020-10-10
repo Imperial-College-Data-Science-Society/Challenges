@@ -1,9 +1,9 @@
 # Challenges
-ICDSS Advanced Data Science Team Challenges 2019-2020
+ICDSS Advanced Data Science Team Challenges 2020-2021
 
 ## Datasets
 
-Choose and work on **one** out of the five distinct datasets provided.
+Choose and work on **one** out of the six distinct datasets provided.
 You can assume that they are correctly labelled and cleaned.
 Detailed descriptions are provided in the `READEME.md` files of each challenge.
 
@@ -12,6 +12,7 @@ Detailed descriptions are provided in the `READEME.md` files of each challenge.
 3. [Cryptocurrency Trading](cryptocurrency-trading)
 4. [Volatility Pairs Trading](pair-trading)
 5. [Real Estate Housing](real-estate)
+6. [Toxic Comment Classification](toxic-comment-classification)
 
 ## Assessment
 
