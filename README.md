@@ -69,20 +69,20 @@ inferior quality compared to accurate but well developed and explained solutions
 Compress your solution and send us the `.zip` or `.tar` file via [email](mailto:icdss@imperial.ac.uk).
 Format the email subject according to:
 ```
-ADST Challenge: <challenge_name>_<imperial_login>
+ADST Challenge 20-21: <challenge_name>_<full_name>
 ```
 where:
 * `<challenge_name>`: is the name of the project given above
-* `imperial_login`: your Imperial College username (i.e. `abc12`)
+* `<full_name>`: your full legal name, same as the one stated in your google form submission
 
 Note that you should be a member of [ICDSS society](https://www.imperialcollegeunion.org/activities/a-to-z/data-science)
-in order to accept your submission. The membership is free for Imperial College students!
+in order to accept your submission.
 
 ### Environment
 
 You are allowed to **use any programming language**, as long as you provide us with
 an automated way to setup our environment for reproducing your results. You should
-expect us to use MacOS >10.13.1 or Ubuntu >16.04.3 LTS for this purpose.
+expect us to use Ubuntu >18.04 LTS for this purpose.
 If you have some particular preference between the two please specify it in your
 submission.
 
@@ -98,9 +98,9 @@ You can choose to submit:
 
 **Note**: Quality matters **only**. The challenge can be successfully addressed and reported with just a handful of jupyter-cells/slides/report-pages.
 
-#### Resumé/CV
+#### Fill up our Application form
 
-Submit also a recent version of your **resumé/CV**, highligting your Data Science experience (projects, courses).
+Please fill in your details and upload your resume through this [google forms](https://forms.gle/AYYxzfg1jqbJ9DN3A)
 
 ## Logistics
 
