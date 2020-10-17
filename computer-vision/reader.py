@@ -35,9 +35,9 @@ def get_images():
     df_train = pd.read_csv('fashion_mnist_train.csv')
     df_test = pd.read_csv('fashion_mnist_test.csv')
 
-    x_train = df_train.drop('label', axis=1).as_matrix().astype(np.uint8)
-    y_train = df_train['label'].as_matrix().astype(np.uint8)
-    x_test = df_test.drop('label', axis=1).as_matrix().astype(np.uint8)
-    y_test = df_test['label'].as_matrix().astype(np.uint8)
+    x_train = df_train.drop('label', axis=1).to_numpy(np.uint8)
+    y_train = df_train['label'].to_numpy(np.uint8)
+    x_test = df_test.drop('label', axis=1).to_numpy(np.uint8)
+    y_test = df_test['label'].to_numpy(np.uint8)
 
     return (x_train, y_train), (x_test, y_test)
