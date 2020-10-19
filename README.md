@@ -100,7 +100,7 @@ You can choose to submit:
 
 #### Fill up our Application form
 
-Please fill in your details and upload your resume through this [google forms](https://forms.gle/AYYxzfg1jqbJ9DN3A)
+Please fill in your details and upload your resume through this [jotform](https://form.jotform.com/202901480545350)
 
 ## Logistics
 
